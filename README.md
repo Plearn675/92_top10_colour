@@ -23,3 +23,8 @@ This project is part of Day 92 of Angela Yu’s "100 Days of Python" course.
 - Flask
 - Pillow (PIL)
 
+## To do List:
+STEP 1 — Make Flask show the homepage
+STEP 2 — Handle the image upload
+STEP 3 — Extract the top 10 colours
+STEP 4 — Display the results to the user
